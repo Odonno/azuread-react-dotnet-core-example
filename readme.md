@@ -1,3 +1,5 @@
+# A memo on how to implement Azure AD authentication using React and .NET Core
+
 ![Azure AD logo](https://miro.medium.com/max/900/1*zBRB2ndXYp9xTlCNsT7pag.png)
 
 I found many ways to implement Azure AD authentication using React and a .NET Core 2.x backend. In this article, I will demonstrate how to implement this type of authentication.

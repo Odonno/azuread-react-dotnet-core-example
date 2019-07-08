@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using System.Linq;
 
-namespace Exp.Isis.CrisisManager.Core.Services
+namespace Example.Api.Services
 {
     public interface IIdentityService
     {

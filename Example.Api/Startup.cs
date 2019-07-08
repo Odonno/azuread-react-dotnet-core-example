@@ -1,5 +1,5 @@
 ﻿using Example.Api.Configuration;
-using Exp.Isis.CrisisManager.Core.Services;
+using Example.Api.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
