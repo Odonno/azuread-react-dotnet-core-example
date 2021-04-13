@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
-    "react-adal": "^0.4.24",
+    "react-adal": "^0.5.1",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
     "typescript": "3.5.2"
